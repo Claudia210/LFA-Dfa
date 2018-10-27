@@ -1,1 +1,1 @@
-# LFA-tema-1
+# LFA-DFA
